@@ -1,1 +1,1 @@
-This is a place to practice AI/ML/DL. 
+AI/ML/DL 연습 
